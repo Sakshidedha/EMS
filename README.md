@@ -25,7 +25,7 @@ The primary objective of the EMS is to provide a centralized platform where empl
 
 • User-friendly interface to interact with the employee management system.
 
-# PREREQUISITES
+# Prerequisites
 Before you begin working on your project, ensure that you have all the necessary components
 installed on your system. 
 
